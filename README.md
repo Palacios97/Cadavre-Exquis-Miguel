@@ -15,3 +15,5 @@ le chat lui préfere manger ce qu'il trouve directement , pour lui il ne sert a 
 
 Alors que la souris fit ses réserve en se soucier de l'avenir, le chat lui manga, dorma, joua de toutes ses forces en été et aux printemps. Après tous il a un maitre qui lui fournit la nourriture tous les jours.
 Mais, un beau jour, on ne sait pas pourquoi son maitre ne revient pas, alors Fripon se retrouva sans nourriture une journée ou deux.
+
+Je n'ai pas une grande inspiration, mais j'arrive à pull et push.
