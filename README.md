@@ -17,3 +17,5 @@ Alors que la souris fit ses réserve en se soucier de l'avenir, le chat lui mang
 Mais, un beau jour, on ne sait pas pourquoi son maitre ne revient pas, alors Fripon se retrouva sans nourriture une journée ou deux.
 
 Je n'ai pas une grande inspiration, mais j'arrive à pull et push.
+
+Fripon, le petit glouton, n'allait certainement pas se laisser mourir de faim en attendant son ingrat de maitre! Il prit son courage à papattes et sorti par la fenêtre ouvert pour trouver de quoi remplir son pauvre petit estomac qui crie famine.
